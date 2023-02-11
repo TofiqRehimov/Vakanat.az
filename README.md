@@ -1,2 +1,2 @@
-# Vakanat.az
-Vakant 
+# vakanat.az
+akant 
